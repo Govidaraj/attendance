@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hhgs.Attendances.AttendancesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.865 s -- in com.hhgs.Attendances.AttendancesApplicationTests
